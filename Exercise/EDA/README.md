@@ -1,1 +1,1 @@
-## EDA Excercise
+## EDA Assignments
