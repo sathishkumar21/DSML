@@ -1,10 +1,16 @@
-# DATA Science Projects & Assignments
-- Point1
-- pont 2
+# Practice & Projects 
+## List of Practices
+- Basics of Python
+- Numpy
+- Pandas
+- EDA
+- Data Visualization
+- Time series
+- Grouping
+- Filtering and Sorting
+- DataFrame & Series
+- Indexing
 
-___
-
-```
-print("Hello World")
-
-```
+## List of Projects
+- EDA using Summer Olymics Data Set
+- ML-1 using Insurance Data Set
