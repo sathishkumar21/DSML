@@ -85,7 +85,7 @@ Medical_Keyword_1-48 are dummy variables.
 ### 9.0 Conclusion & Future Action Summary
 - After Analysing the data and applying different algorithms like __Linear Regression__,__Logistic Regression__,__DecisionTree__,and __RandomForest__
 - We found when we apply __Logistic Regression Algorithm __ we got a high accuracy score of __0.36__
-- We found when we apply __"DeicsionTree" Algorithm __ we got a high accuracy score of __0.35__
+- We found when we apply __DeicsionTree" Algorithm __ we got a high accuracy score of __0.35__
 - We have to fine tune further on the parameters to check whether we can improve the accuracy score
 - We need to discuss with business and understand the importance of all the fields and if there is a possiblity, we can drop few more fields and then try to apply algorithm to improve the accuracy score. 
 
