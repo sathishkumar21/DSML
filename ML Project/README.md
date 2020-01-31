@@ -72,7 +72,7 @@ Medical_Keyword_1-48 are dummy variables.
 ### 6.0 Logistic Regression Algorithm Applied & Observation
 - By using model to predict it has an accuracy score of __0.36__
 - By using Proba method to predict with a value of  __0.75__ it gives an accuracy of __0.0__
-- By using Proba method with a value of __.10__ it gives an accuracy of __0.058__
+- By using Proba method with a value of __0.10__ it gives an accuracy of __0.058__
 
 ### 7.0 Decision Tree Algorithm Applied & Observation
 - We got an accuracy of __0.31__ when we use Basemodel prediction 
@@ -85,7 +85,7 @@ Medical_Keyword_1-48 are dummy variables.
 ### 9.0 Conclusion & Future Action Summary
 - After Analysing the data and applying different algorithms like __Linear Regression__,__Logistic Regression__,__DecisionTree__,and __RandomForest__
 - We found when we apply __Logistic Regression Algorithm __ we got a high accuracy score of __0.36__
-- We found when we apply __"DeicsionTree" Alogrithm__ we got a high accuracy score of __0.35__
+- We found when we apply __"DeicsionTree" Algorithm __ we got a high accuracy score of __0.35__
 - We have to fine tune further on the parameters to check whether we can improve the accuracy score
 - We need to discuss with business and understand the importance of all the fields and if there is a possiblity, we can drop few more fields and then try to apply algorithm to improve the accuracy score. 
 
