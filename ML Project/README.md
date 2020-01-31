@@ -54,13 +54,13 @@ Medical_Keyword_1-48 are dummy variables.
     - Dropped column  __ "Family_Hist_3"__ This has 60% null values
     - Dropped column  __ "Family_Hist_5"__ This has 70% null values<br>
 	
-- Grouped Insurance entire data set into 2 
+- Grouped Insurance entire data set into 2 Categories
     - Category 1. __Insurance_cont__ of all __continous__ data
-    - Category 2. __Insurance_cat_ of all __Nominal__ data
+    - Category 2. __Insurance_cat__ of all __Nominal__ data
 	
 	
 ### 4.0 EDA Observation
-- We can observe that we have most of the values as __Positive__ correlation
+- We can observe that we have most of the values as __Positively__ correlation
 - We can see a strong correlation between __BMI & Weight__ with __0.85__
 - We can see a Good correlation between __BMI & height __ with __0.61__
 - Others features are not having that much strong correlation
