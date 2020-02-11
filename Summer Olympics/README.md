@@ -1,4 +1,4 @@
-# Exploratory Data Analysis(EDS) 
+# Exploratory Data Analysis(EDA) 
 ## Summer Olympic Data Set
 - Selected this data set to explore in details of Summer Olympics
 
