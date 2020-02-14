@@ -81,6 +81,7 @@ Medical_Keyword_1-48 are dummy variables.
 ### 8.0 RandomForest Algorithm Applied & Observation
 - When we use basemodel Ramdomforest we got an accuracy score of __0.33__
 - When we use RamdomsearchCV we got an accuracy score of __0.32__
+### 8.1 Evaluating Using Precision and Recall
 
 ### 9.0 Conclusion & Future Action Summary
 - After Analysing the data and applying different algorithms like __Linear Regression__,__Logistic Regression__,__DecisionTree__,and __RandomForest__
