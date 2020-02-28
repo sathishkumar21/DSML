@@ -11,3 +11,4 @@
 - Boxplot
 - Heatmap
 - Voilen plot
+- Hi Chart
