@@ -1,4 +1,6 @@
 ### UnSupervised Learning
 
-#K-Mean
-#KNN
+- K-Mean
+- KNN
+- Naivye Bayes
+
