@@ -3,4 +3,5 @@
 - K-Mean
 - KNN
 - Naivye Bayes
+- SVM
 
