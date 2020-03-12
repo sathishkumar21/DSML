@@ -4,4 +4,5 @@
 - KNN
 - Naivye Bayes
 - SVM
+- PCM
 
