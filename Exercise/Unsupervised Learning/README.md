@@ -5,4 +5,4 @@
 - Naivye Bayes
 - SVM
 - PCM
-
+-Time series
