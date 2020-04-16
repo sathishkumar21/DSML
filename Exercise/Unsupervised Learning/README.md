@@ -5,4 +5,5 @@
 - Naivye Bayes
 - SVM
 - PCM
--Time series
+- Time Series
+- Apriori
