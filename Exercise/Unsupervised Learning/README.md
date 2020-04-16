@@ -1,4 +1,4 @@
-### UnSupervised Learning
+### Machine Learning - level 2
 
 - K-Mean
 - KNN
