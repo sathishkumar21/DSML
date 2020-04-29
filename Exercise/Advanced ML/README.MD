@@ -1,3 +1,3 @@
 ### Advanced ML
--Apirori Algorithm
--LDA
+- Apirori Algorithm
+- LDA
