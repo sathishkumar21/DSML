@@ -7,3 +7,4 @@
 - PCM
 - Time Series
 - Apriori
+- LCD
