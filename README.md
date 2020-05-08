@@ -14,3 +14,4 @@
 ## List of Projects worked
 - EDA using Summer Olymics Data Set
 - ML-1 using Insurance Data Set
+- ML Intermediate Project - Using Store demand forecast Prediction
