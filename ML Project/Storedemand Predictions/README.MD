@@ -1,11 +1,11 @@
-Predict Store demand forecast
-1.0 Objective
-The objective of this project is to predict 3 months of item-level sales data at different store locations.
-Data fields description
-date - Date of the sale data. There are no holiday effects or store closures.
-store - Store ID
-item - Item ID
-sales - Number of items sold at a particular store on a particular date.
+## Predict Store demand forecast
+ -1.0 Objective
+- The objective of this project is to predict 3 months of item-level sales data at different store locations.
+- Data fields description
+- date - Date of the sale data. There are no holiday effects or store closures.
+- store - Store ID
+- item - Item ID
+- sales - Number of items sold at a particular store on a particular date.
 2.0 Data Loading and Visualization
 Import data set
 3.0 Decomposition
