@@ -20,8 +20,8 @@ We can try to achive stationary using different methods like log scale, moving a
   - ### 5.4 Time Shift Transformation
 ### 6.0 Plotting ACF & PACF
 ### 7.0 Building Models
-  - ### 7.2 ARMA Model 
-  - ### 7.3 ARIMA Model
+  - ### 7.1 ARMA Model 
+  - ### 7.2 ARIMA Model
 ### 8.0 Prediction & Reverse transformations of fitted values
 ### 9.0 Forecasting the Store Sales for next 3 Months
 We have 3(existing data of 3 months) data points. To forecast additional 3 month data points or 6 months.
