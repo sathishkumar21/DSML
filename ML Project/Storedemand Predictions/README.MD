@@ -1,4 +1,4 @@
-# Predict Store demand forecast
+# Predict Store Demand Forecast
 ### 1.0 Objective
 The objective of this project is to predict 3 months of item-level sales data at different store locations.
 Data fields description
@@ -24,7 +24,7 @@ We can try to achive stationary using different methods like log scale, moving a
   - ### 7.2 ARIMA Model
 ### 8.0 Prediction & Reverse transformations of fitted values
 ### 9.0 Forecasting the Store Sales for next 3 Months
-We have 3(existing data of 3 months) data points. To forecast additional 3 month data points or 6 months.
+We have 3(existing data of 3 months) data points. 
 ### 10.0 Using plot_predict method
 ### 11.0 Conclusion
 Using ARIMA model our forcast and actual almost in line with the predictions
