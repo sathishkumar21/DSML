@@ -13,5 +13,5 @@
 
 ## List of Projects worked
 - EDA - Summer Olymics Data Set
-- ML Basic - Insurance Data Set - Logistic Regression
-- ML Intermediate Project - Store demand forecast Prediction - Using Time Series Algorithm
+- ML Basic - Insurance Data Set - Linear,Logistic Regression,Decision Tree, Random Forest Algorithm
+- ML Intermediate Project - Store Demand forecast Prediction - Using Time Series Algorithm
