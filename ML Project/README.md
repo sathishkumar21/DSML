@@ -1,4 +1,4 @@
-# ML Project - Supervised Learning 
+# ML Project - Supervised Learning - Used Linear Regression, Logistic Regression,Decison Tree,Random forest
 ### Insurance Data Set
 <a id= section1> </a>
 ### 1. Problem Statement
