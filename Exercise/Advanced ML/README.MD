@@ -1,5 +1,6 @@
 ### Advanced ML
-- Apirori Algorithm
+- Apriori Algorithm
 - LDA
 - Anamoly detection
 - Stacking
+-Recommendation Engine
