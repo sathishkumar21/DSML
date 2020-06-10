@@ -27,4 +27,5 @@ We can try to achive stationary using different methods like log scale, moving a
 We have 3(existing data of 3 months) data points. 
 ### 10.0 Using plot_predict method
 ### 11.0 Conclusion
-Using ARIMA model our forcast and actual almost in line with the predictions
+Using ARIMA model our forcast and actual almost in-line with the predictions
+We can also try to improve this model by fine tuning further
