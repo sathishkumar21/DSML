@@ -3,4 +3,5 @@
 - LDA
 - Anamoly detection
 - Recommendation Engine
-- Ensemble  - Technique Bagging,Boosting,Stacting
+- Ensemble  - Technique Bagging,Boosting,Stacking
+
