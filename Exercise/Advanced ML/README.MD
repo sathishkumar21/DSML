@@ -5,4 +5,5 @@
 - Recommendation Engine
 - Ensemble  - Technique Bagging,Boosting,Stacking
 - Recommendation Engine- part2
-
+- Optimization
+- Model Implementation
