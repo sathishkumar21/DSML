@@ -7,3 +7,4 @@
 - Recommendation Engine- part2
 - Optimization
 - Model Implementation
+- Neural Network Basic
